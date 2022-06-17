@@ -1,8 +1,10 @@
 ### Hi there 👋
 #### I'm a Software Engineer located on Brazil
-Contact me on [LinkedIn](https://www.linkedin.com/in/wsilvadeveloper/)
+Contact me on 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikariwill&hide=glsl&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wsilvadeveloper/)
 <!--
 **ikariwill/ikariwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
