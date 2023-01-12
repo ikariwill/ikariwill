@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a Software Engineer located in Brazil
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikariwill&hide=glsl&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikariwill&hide=glsl&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wsilvadeveloper/)
 <!--
