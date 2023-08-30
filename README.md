@@ -30,5 +30,3 @@ I'm a Software Engineer based in Brazil, passionate about building cutting-edge 
 </div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikariwill&layout=compact&theme=dark)](https://github.com/ikariwill/github-readme-stats)
