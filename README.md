@@ -1,11 +1,6 @@
-### Hi there 👋
-I'm a Software Engineer based in Brazil, passionate about building cutting-edge web and mobile applications.
+### Hi, I'm Willian 👋
 
-🌱 **Current Learning Focus:** Exploring Cloud Computing and Artificial Intelligence to stay at the forefront of the ever-evolving software development landscape.
-
-🤝 **Looking to Collaborate:** I'm open to collaborating on interesting projects. Feel free to reach out!
-
-💬 **Ask me about:** Anything related to JavaScript, TypeScript, Node.js, Express.js, React.js, React Native, or MySQL. I'm here to help!
+Software engineer. I work end to end on a SaaS platform where gyms, sports clubs and personal trainers sell and deliver training programs online — used by tens of thousands of gyms and trainers to reach over half a million of their students.
 
 📫 **How to Reach Me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/wsilvadeveloper/).
 
